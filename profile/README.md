@@ -1,5 +1,3 @@
-# MAX Digital Services Lyon
-
 ![MAX Digital Services Logo](https://maxds.fr/voy_content/uploads/2022/05/max-ds-logo.svg)
 
 Bienvenue sur la page GitHub officielle de **MAX Digital Services Lyon**! Nous sommes une société de services libérée et co-construite par des développeurs passionnés de _software craftsmanship_, d'innovation technologique et de partage de connaissances. 🚀
