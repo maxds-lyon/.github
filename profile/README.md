@@ -1,10 +1,12 @@
-# Bienvenue chez **MAX Digital Services Lyon**! 🚀
+![MAX Digital Services Logo](banner.svg)
+
+# Bienvenue chez **Max Lyon**! 🚀
 
 Nous sommes une entreprise de services numériques libérée, co-construite par des développeurs passionnés de _software craftsmanship_, d'innovation technologique et de partage de connaissances. 
 
 ## Qui sommes-nous ?
 
-MAX Digital Services Lyon, basée à Lyon, est spécialisée dans les services numériques. Notre mission ? Offrir des solutions technologiques innovantes et durables tout en maintenant une culture d'entreprise fun, collaborative et en apprentissage continu. Chez nous, l'humain est au cœur de tout ce que nous faisons. Nous prônons l'équilibre entre vie professionnelle et personnelle et nous croyons fermement en la transparence et l'autonomie.
+MAX Lyon, basée à Lyon, est spécialisée dans les services numériques. Notre mission ? Offrir des solutions technologiques innovantes et durables tout en maintenant une culture d'entreprise fun, collaborative et en apprentissage continu. Chez nous, l'humain est au cœur de tout ce que nous faisons. Nous prônons l'équilibre entre vie professionnelle et personnelle et nous croyons fermement en la transparence et l'autonomie.
 
 ### Nos valeurs
 
